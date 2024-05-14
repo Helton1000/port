@@ -9,6 +9,7 @@ import Projects from "./components/Projects";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import Skills from "./components/Skills";
 
 const Home = () => {
   const [nav, setNav] = useState(false);
@@ -24,6 +25,7 @@ const Home = () => {
       </div>
       <div className="relative z-[30]">
         <About />
+        <Skills />
         <Projects />
         <Experience />
         <Contact />
