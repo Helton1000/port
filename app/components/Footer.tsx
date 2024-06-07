@@ -23,7 +23,7 @@ const Footer = () => {
           </p>
 
           <p className="mt-[1.3rem] font-semibold text-yellow-300 underline">
-            helton1000xd8@gmail.com
+            hfbarbosa.contato@gmail.com
           </p>
         </div>
         <div className="md:mx-auto">
@@ -74,7 +74,7 @@ const Footer = () => {
           <div className="mt-[1rem] flex items-center space-x-2">
             <EnvelopeIcon className="h-[1rem] w-[1rem] text-yellow-300" />
             <p className="text-[17px] font-normal text-white opacity-75">
-              helton1000xd8@hgmail.com
+              hfbarbosa.contato@gmail.com
             </p>
           </div>
           <div className="mt-[1rem] flex items-center space-x-2">
